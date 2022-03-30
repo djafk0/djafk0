@@ -1,5 +1,55 @@
 <h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
+
+<table>
+<thead>
+<tr>
+<th><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji><strong>Courses</strong></th>
+<th><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://softuni.bg/trainings/3199/programming-basics-with-csharp-january-2021" rel="nofollow"> Programming Basics </a></td>
+<td><a href="https://softuni.bg/certificates/details/100079/2c1a9902" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3365/csharp-fundamentals-may-2021" rel="nofollow"> C# Fundamentals </a></td>
+<td><a href="https://softuni.bg/certificates/details/111550/cc92b37c" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3483/csharp-advanced-september-2021" rel="nofollow"> C# Advanced </a></td>
+<td><a href="https://softuni.bg/certificates/details/114336/3c89b9ff" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3484/csharp-oop-october-2021" rel="nofollow"> C# OOP </a></td>
+<td><a href="https://softuni.bg/certificates/details/120472/12c2b0b8" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3531/ms-sql-september-2021" rel="nofollow"> MSSQL </a></td>
+<td><a href="https://softuni.bg/certificates/details/113885/149db9d0" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021" rel="nofollow"> EF Core </a></td>
+<td><a href="https://softuni.bg/certificates/details/119146/18e9771d" rel="nofollow">  <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3588/js-advanced-january-2022" rel="nofollow"> JS Advanced </a></td>
+<td><a href="https://softuni.bg/certificates/details/126446/eb7a70e2" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+ <tr>
+<td><a href="https://softuni.bg/trainings/3588/js-advanced-january-2022" rel="nofollow"> JS Applications </a></td>
+
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022" rel="nofollow"> C# Web Basics </a></td>
+<td><a href="https://softuni.bg/certificates/details/126298/02c014bb" rel="nofollow">  <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
+</tr>
+ <tr>
+<td><a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022" rel="nofollow"> ASP.NET Core </a></td>
+
+</tr>
+</tbody>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
