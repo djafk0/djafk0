@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">If you need some motivation videos to be a programmer</h3>
+<h3 align="center">If you need some motivation videos to become a programmer</h3>
 <h2 align="center">STOP PROGRAMMING</h2>
 
 <table>
