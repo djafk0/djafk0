@@ -38,7 +38,7 @@
 </tr>
  <tr>
 <td><a href="https://softuni.bg/trainings/3588/js-advanced-january-2022" rel="nofollow"> JS Applications </a></td>
-
+<td>Soon...</td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022" rel="nofollow"> C# Web Basics </a></td>
@@ -46,7 +46,7 @@
 </tr>
  <tr>
 <td><a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022" rel="nofollow"> ASP.NET Core </a></td>
-
+<td>Soon...</td>
 </tr>
 </tbody>
 </table>
