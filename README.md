@@ -39,7 +39,7 @@
 <td><a href="https://softuni.bg/certificates/details/126446/eb7a70e2" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
 </tr>
  <tr>
-<td><a href="https://softuni.bg/trainings/3588/js-advanced-january-2022" rel="nofollow"> JS Applications </a></td>
+<td><a href="https://softuni.bg/trainings/3589/js-applications-february-2022" rel="nofollow"> JS Applications </a></td>
 <td>Soon...</td>
 </tr>
 <tr>
