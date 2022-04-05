@@ -40,7 +40,7 @@
 </tr>
  <tr>
 <td><a href="https://softuni.bg/trainings/3589/js-applications-february-2022" rel="nofollow"> JS Applications </a></td>
-<td>Soon...</td>
+<td><a href="https://softuni.bg/certificates/details/130259/f272c992</td>" rel="nofollow"> <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022" rel="nofollow"> C# Web Basics </a></td>
