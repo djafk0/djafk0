@@ -48,7 +48,7 @@
 </tr>
  <tr>
 <td><a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022" rel="nofollow"> ASP.NET Core </a></td>
-<td>Soon...</td>
+<td><a href="https://softuni.bg/certificates/details/132601/2c223dc4" rel="nofollow">  <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Certificate</a></td>
 </tr>
 </tbody>
 </table>
